@@ -4,12 +4,9 @@
 
 ## Qué es
 
-Un clon en español de [opensourceprojects.dev](https://www.opensourceprojects.dev): un índice de proyectos open-source destacados (herramientas de IA, CLI, bases de datos vectoriales, e-commerce, CMS, backup, transcripción y más), cada uno con su descripción traducida, categoría, lenguaje y estrellas de GitHub.
+Un índice de proyectos open-source destacados (herramientas de IA, CLI, bases de datos vectoriales, e-commerce, CMS, backup, transcripción y más), cada uno con su descripción traducida, categoría, lenguaje y estrellas de GitHub.
 
-Los datos provienen de dos fuentes:
-
-- **Curado** del índice de [opensourceprojects.dev](https://www.opensourceprojects.dev) (barrido por categorías).
-- **Enriquecido** con la API de GitHub (descripción canónica, estrellas, lenguaje).
+Los datos se enriquecen con la API de GitHub (descripción canónica, estrellas, lenguaje).
 
 ## Cómo funciona
 

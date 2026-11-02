@@ -1,5 +1,4 @@
 // Generado automáticamente — 245 proyectos open-source curados, en español.
-// Fuente: https://www.opensourceprojects.dev (barrido + API de GitHub).
 window.PROJECTS = [
   {r:"n8n-io/n8n", d:"Plataforma de automatización de flujos fair-code con capacidades nativas de IA y 400+ integraciones", c:"AUTOMATION", l:"TypeScript", s:209307},
   {r:"comfyanonymous/comfyui", d:"La GUI de difusión modular más potente, con interfaz de grafos y nodos", c:"UI", l:"Python", s:144496},
